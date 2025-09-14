@@ -4,6 +4,12 @@
 <h4 align="center"><b><i> "The more you know, the more you realize you don't know" - Aristotle</i></b></h4>
 
 <h3>About me</h3>
+
+<p align="center">
+  Software engineer who loves building stuff.
+  Check out my app: <a href="https://certifup.me" target="_blank"><b>CertifUp</b></a> 🚀
+</p>
+
 <ul>
   <li>💻 Spring Boot + Angular/React</li>
   <li>🚀 REST APIs, CI/CD, Docker</li>
@@ -14,12 +20,6 @@
 <br>
 
 <h3>Languages & Tools</h3>
-
-<p align="center">
-  Software engineer who loves building stuff.
-  Check out my app: <a href="https://certifup.me" target="_blank"><b>CertifUp</b></a> 🚀
-</p>
-
 <img align="left" alt="Java" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/java/java.png">
 <img align="left" alt="Spring" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">
 <img align="left" alt="Angular" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">
