@@ -5,7 +5,7 @@
 
 <h3>About me</h3>
 
-<p align="center">
+<p>
   Software engineer who loves building stuff.
   Check out my app: <a href="https://certifup.me" target="_blank"><b>CertifUp</b></a> 🚀
 </p>
