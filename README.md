@@ -1,24 +1,26 @@
 <p><a href="https://www.youtube.com/watch?v=SDkAGkd4NLc"><img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG"></a></p>
 
-<h1 align="center"><b>Hello there, I'm Fahed Mbarek 👋</b></h1>
-<h4 align="center"><b><i>“Ship it. Learn. Repeat.”</i></b></h4>
+<h1 align="center"><b>Hey, I'm Fahed Mbarek 👋</b></h1>
+<h4 align="center"><b><i> "The more you know, the more you realize you don't know"</i></b></h4>
+<h4 align="center"><b><i> Aristotle</i></b></h4>
 
 <p align="center">
   <img alt="visitors" src="https://gpvc.arturio.dev/Fahedmb">
 </p>
 
-<br>
+<p align="center">
+  Full-stack dev who loves building multi-tenant platforms, clean APIs, and crisp dashboards.
+  Check out my app: <a href="https://certifup.me" target="_blank"><b>CertifUp</b></a> 🚀
+</p>
 
-<h3>I am a Full-Stack Software Engineer</h3>
-
+<h3>About me</h3>
 <ul>
-  <li>💻 Building multi-tenant apps with Spring Boot + Angular/React (CertifUp)</li>
-  <li>🚀 Shipping REST APIs, dashboards, CI/CD, and Dockerized deployments</li>
-  <li>🧠 Dabbling in AI/ML (TensorFlow, scikit-learn)</li>
-  <li>🎯 Looking to collaborate on Java/TypeScript projects</li>
-  <li>📫 Reach me: <a href="mailto:Fahedmbarek9@gmail.com">Fahedmbarek9@gmail.com</a></li>
-  <li>⚡ Fun fact: I optimize my SQL before my coffee kicks in</li>
+  <li>💻 Spring Boot + Angular/React</li>
+  <li>🚀 REST APIs, CI/CD, Docker</li>
+  <li>🤝 Open to collabs on Java/TypeScript</li>
+  <li>📫 <a href="mailto:Fahedmbarek9@gmail.com">Fahedmbarek9@gmail.com</a></li>
 </ul>
+
 
 <br>
 
