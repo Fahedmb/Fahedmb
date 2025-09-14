@@ -4,7 +4,7 @@
 <h4 align="center"><b><i> "The more you know, the more you realize you don't know" - Aristotle</i></b></h4>
 
 <p align="center">
-  Full-stack dev who loves building multi-tenant platforms, clean APIs, and crisp dashboards.
+  Software engineer who loves building stuff.
   Check out my app: <a href="https://certifup.me" target="_blank"><b>CertifUp</b></a> 🚀
 </p>
 
