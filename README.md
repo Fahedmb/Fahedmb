@@ -24,8 +24,6 @@
 <img align="left" alt="Spring" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png">
 <img align="left" alt="Angular" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/angular/angular.png">
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
-<img align="left" alt="NextJS" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/nextjs.png">
-<img align="left" alt="NestJS" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/nestjs.png">
 <img align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
 <img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
 <img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
