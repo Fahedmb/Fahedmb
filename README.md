@@ -28,11 +28,8 @@
 <img align="left" alt="React" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png">
 <img align="left" alt="TypeScript" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png">
 <img align="left" alt="PostgreSQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/postgresql/postgresql.png">
-<img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/mysql/mysql.png">
-<img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
 <img align="left" alt="Docker" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
 <img align="left" alt="Nginx" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/nginx/nginx.png">
-<img align="left" alt="GitHub Actions" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/actions/actions.png">
 <img align="left" alt="TensorFlow" width="35px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">
 
 <br><br><br>
