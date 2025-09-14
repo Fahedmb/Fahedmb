@@ -39,16 +39,6 @@
 
 <br><br><br>
 
-<h3>GitHub Stats</h3>
 
-<!-- Keep the original commit matrix at the top (above) -->
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=Fahedmb&show_icons=true&include_all_commits=true" alt="Fahed's GitHub Stats" width="60%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahedmb&layout=compact&hide_border=true" width="37%" alt="Fahed's Top Languages">
-
-<p align="center">
-  NOTE: Top Languages just reflects repo code sizes on GitHub, not skill level.
-</p>
 
 <hr>
-
-<p>Matrix SVG by <a href="https://github.com/rodrigograca31">rodrigograca31</a> • Inspired by community profile READMEs</p>
