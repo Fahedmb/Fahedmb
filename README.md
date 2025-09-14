@@ -5,10 +5,6 @@
 <h4 align="center"><b><i> Aristotle</i></b></h4>
 
 <p align="center">
-  <img alt="visitors" src="https://gpvc.arturio.dev/Fahedmb">
-</p>
-
-<p align="center">
   Full-stack dev who loves building multi-tenant platforms, clean APIs, and crisp dashboards.
   Check out my app: <a href="https://certifup.me" target="_blank"><b>CertifUp</b></a> 🚀
 </p>
