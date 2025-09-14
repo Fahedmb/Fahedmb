@@ -1,8 +1,7 @@
 <p><a href="https://www.youtube.com/watch?v=SDkAGkd4NLc"><img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg" alt="Matrix SVG"></a></p>
 
-<h1 align="center"><b>Hey, I'm Fahed Mbarek 👋</b></h1>
-<h4 align="center"><b><i> "The more you know, the more you realize you don't know"</i></b></h4>
-<h4 align="center"><b><i> Aristotle</i></b></h4>
+<h1 align="center"><b>Fahed Mbarek</b></h1>
+<h4 align="center"><b><i> "The more you know, the more you realize you don't know" - Aristotle</i></b></h4>
 
 <p align="center">
   Full-stack dev who loves building multi-tenant platforms, clean APIs, and crisp dashboards.
